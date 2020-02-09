@@ -1,3 +1,5 @@
 Visual Code Shortcut
 
 Added in more code
+
+Date is today
